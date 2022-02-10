@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=asdf148&fontSize=90)
+
+![asdf148's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdf148&show_icons=true&theme=midnight-purple)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdf148&layout=compact&theme=midnight-purple&langs_count=10)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eldldk)
+
 <!--
 **asdf148/asdf148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
