@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,16 +55,17 @@ Here are some ideas to get you started:
 ⌚︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Python                   4 hrs 28 mins       █████████████████████████   100.0%
+Python                   5 hrs 30 mins       █████████████████████████   100.0%
 
 🔥 에디터들: 
-PyCharmCore              4 hrs 28 mins       █████████████████████████   100.0%
+PyCharmCore              5 hrs 30 mins       █████████████████████████   100.0%
 
 🐱‍💻 프로젝트들: 
-Python Algorithm         4 hrs 28 mins       █████████████████████████   100.0%
+Python Algorithm         5 hrs 30 mins       █████████████████████████   99.99% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 💻 운영 체제들: 
-Mac                      4 hrs 28 mins       █████████████████████████   100.0%
+Mac                      5 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
@@ -85,5 +86,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/asdf148/asdf148/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/07/2022 18:52:37 UTC
+ Last Updated on 21/07/2022 19:00:32 UTC
 <!--END_SECTION:waka-->
