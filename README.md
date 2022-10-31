@@ -85,5 +85,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/asdf148/asdf148/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2022 18:53:19 UTC
+ Last Updated on 31/10/2022 18:56:48 UTC
 <!--END_SECTION:waka-->
